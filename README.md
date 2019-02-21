@@ -1,4 +1,4 @@
-## Tegile Bash Script Examples  ##
+## IntelliFlash Bash Script Examples  ##
 
 This repository is for Bash Shell Script examples.
 
@@ -12,4 +12,4 @@ We will review Pull Requests for addition to this repository.  We look forward t
 
 ### Support ###
 
-Tegile Support is not directly responsible to provide support for scripts included in this repository.
+Western Digital Support is not directly responsible to provide support for scripts included in this repository.
